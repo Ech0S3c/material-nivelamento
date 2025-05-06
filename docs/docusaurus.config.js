@@ -11,19 +11,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'EchoSec Material',
-  tagline: ' EchoSec is cool',
+  tagline: 'EchoSec is cool',
   favicon: 'img/logo.svg',
 
   // Set the production url of your site here
-  url: 'https://JvWandermurem.github.io',
+  url: 'https://Ech0S3c.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/material-nivelamento/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Ech0S3c', // Usually your GitHub org/user name.
   projectName: 'material-nivelamento', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
